@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnClear" type="id"/>
+    <item name="btnBracket" type="id"/>
+    <item name="btnPercent" type="id"/>
+    <item name="btnDivision" type="id"/>
+    <item name="btn7" type="id"/>
+    <item name="btn8" type="id"/>
+    <item name="btn9" type="id"/>
+    <item name="btnMultiply" type="id"/>
+    <item name="btn4" type="id"/>
+    <item name="btn5" type="id"/>
+    <item name="btn6" type="id"/>
+    <item name="btnMinus" type="id"/>
+    <item name="btn1" type="id"/>
+    <item name="btn2" type="id"/>
+    <item name="btn3" type="id"/>
+    <item name="btnPlus" type="id"/>
+    <item name="btn0" type="id"/>
+    <item name="btnDot" type="id"/>
+    <item name="btnEqual" type="id"/>
+</resources>
